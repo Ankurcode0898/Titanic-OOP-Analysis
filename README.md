@@ -47,8 +47,10 @@ python titanic_project.py
 
 ### Age Distribution
 
-![Age Distribution](screenshots/age_distribution.png)
+![Age Distribution](<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/db9baf34-a7f1-4102-8526-6f8840c965ef" />
+)
 
 ### Survival Distribution
 
-![Survival Distribution](screenshots/survival_distribution.png)
+![Survival Distribution](<img width="680" height="468" alt="image" src="https://github.com/user-attachments/assets/f7ec582b-0c7d-4118-8941-72946b4f3aef" />
+)
